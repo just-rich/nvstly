@@ -92,7 +92,7 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/2Lqzayu.png" alt="Integrated with Discord & Twitter">
+        <img width="50%" src="https://i.imgur.com/F96rhtg.png" alt="Integrated with Discord & Twitter">
     </a>
 </p>
 
