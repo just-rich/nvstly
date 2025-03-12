@@ -92,13 +92,13 @@ A social investing platform where retail traders collaborate, share and exchange
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
-        <img width="50%" src="https://i.imgur.com/F96rhtg.png" alt="Integrated with Discord & Twitter">
+        <img width="50%" src="https://i.imgur.com/uhQnotq.png" alt="Integrated with Discord & Twitter">
     </a>
 </p>
 
 ## Socials
 
-[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [Linktree](https://nvstly.com/go/linktree) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Product Hunt](https://nvstly.com/go/producthunt)
+[Discord](https://nvstly.com/discord) | [X/Twitter](https://nvstly.com/go/x) | [YouTube](https://nvstly.com/go/youtube) | [TikTok](https://nvstly.com/go/tiktok) | [Instagram](https://nvstly.com/go/instagram) | [Threads](https://nvstly.com/go/threads) | [Facebook](https://nvstly.com/go/facebook) | [LinkedIn](https://nvstly.com/go/linkedin) | [GitHub](https://nvstly.com/go/github) | [Product Hunt](https://nvstly.com/go/producthunt) | [Mastodon](https://nvstly.com/go/mastodon) | [Nostr](https://nvstly.com/go/nostr) | [Bluesky](https://nvstly.com/go/bsky) | [Hive/InLeo](https://nvstly.com/go/hive) | [Medium](https://nvstly.com/go/medium) | [Substack](https://nvstly.com/go/substack)
 
 ## About Us
 
