@@ -29,16 +29,16 @@ A social investing platform where retail traders collaborate, share and exchange
 </p>
 
 ## Awards
-[People's Choice Award](https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards) from Benzinga FinTech Awards 2024  
+[People's Choice Award](https://nvstly.com/shrt/bnzgaward) from Benzinga FinTech Awards 2024  
 #1 FinTech Product of the Week (x2)  & #4 FinTech Product of the Month on [Product Hunt](https://www.producthunt.com/products/nvstly-social-investing)
 
 <p align="center">
-  <a href="https://www.benzinga.com/news/events/24/11/42098678/these-are-the-top-fintech-innovators-recognized-at-benzingas-2024-global-fintech-awards" target="_blank">
+  <a href="https://nvstly.com/shrt/bnzgaward" target="_blank">
     <img src="https://i.imgur.com/0BOdUU2.png" alt="People's Choice Award" height="160">
   </a>
 </p>
 
-## Features Highlights
+## Feature Highlights
 
 <p align="center" width="100%">
     <a href="https://nvstly.com" target="_blank">
