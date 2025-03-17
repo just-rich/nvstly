@@ -37,16 +37,27 @@
     }
 
     .store-badge {
-      width: 100%; /* Each takes up roughly half the container minus gap */
+      width: 100%;
       max-width: 150px;
       height: auto;
     }
 	
-	.benzinga-badge {
+    .benzinga-badge {
       width: 30%;
-      max-width: 600px;
+      max-width: 180px;
       height: auto;
+      display: block;
+      margin: 0 auto;
+    }
+
+    .benzinga-badge-wrapper {
       display: inline-block;
+      text-align: center;
+      position: relative;
+    }
+
+    .benzinga-badge-wrapper img {
+      width: 100%;
     }
 
     iframe {
@@ -106,13 +117,14 @@
     <p>
       #1 FinTech Product of the Week (x2) & #4 FinTech Product of the Month on <a href="https://www.producthunt.com/products/nvstly-social-investing" target="_blank">Product Hunt</a>
     </p>
-    
+	
     <p style="text-align: center;">
-      <a href="https://nvstly.com/shrt/bnzgaward" target="_blank" style="display: inline-block;">
+      <a href="https://nvstly.com/shrt/bnzgaward" target="_blank" class="benzinga-badge-wrapper">
         <img class="benzinga-badge" src="../assets/images/benzinga_badge.png" alt="Benzinga Award">
       </a>
     </p>
-    
+
+
     <p>
       <a href="https://www.youtube.com/watch?v=T31HkdKYkck" target="_blank">
         <iframe src="https://www.youtube.com/embed/T31HkdKYkck" title="Benzinga Interviews NVSTly" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
